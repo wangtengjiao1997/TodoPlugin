@@ -1,0 +1,17 @@
+{
+  "records": [
+    {
+      "createTime": "2024-09-06 17:53:48",
+      "recordID": "552575a92892213dd54faf7b56afb060",
+      "author": "0004",
+      "role": 4,
+      "contents": [
+        {
+          "type": "text",
+          "content": "请确保项目可编译成功后，再次发起生成用例操作。"
+        }
+      ]
+    }
+  ],
+  "tasks": []
+}
